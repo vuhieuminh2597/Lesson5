@@ -33,8 +33,8 @@ public class TechnicalStaff extends Employee {
     }
 
     @Override
-    public void dedign() {
-        super.dedign();
+    public void design() {
+        super.design();
         System.out.println(super.name + " đang thiết kế một con ốc vít.");
     }
 

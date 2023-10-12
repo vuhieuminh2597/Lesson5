@@ -45,7 +45,7 @@ public abstract class Employee extends Person implements Actionable {
     }
 
     @Override
-    public void dedign() {
+    public void design() {
 
     }
 

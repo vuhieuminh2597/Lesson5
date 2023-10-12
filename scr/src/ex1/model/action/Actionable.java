@@ -5,7 +5,7 @@ public interface Actionable {
 
     void repair();
 
-    void dedign();
+    void design();
 
     void trade();
 
