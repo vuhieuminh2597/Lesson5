@@ -1,4 +1,6 @@
-package ex1;
+package ex1.model;
+
+import ex1.model.Employee;
 
 public class TechnicalStaff extends Employee {
     String startDate;

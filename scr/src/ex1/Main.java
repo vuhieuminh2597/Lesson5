@@ -1,5 +1,10 @@
 package ex1;
 
+import ex1.model.Employee;
+import ex1.model.OfficeStaff;
+import ex1.model.SalesAgent;
+import ex1.model.TechnicalStaff;
+
 public class Main {
 
     public static void main(String[] args) {

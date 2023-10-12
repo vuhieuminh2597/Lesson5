@@ -1,4 +1,6 @@
-package ex1;
+package ex1.model;
+
+import ex1.model.action.Actionable;
 
 public abstract class Employee extends Person implements Actionable {
     public String id;//Employee code

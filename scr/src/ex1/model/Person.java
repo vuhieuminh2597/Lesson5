@@ -1,4 +1,4 @@
-package ex1;
+package ex1.model;
 
 public abstract class Person {
     public String id;//PassPort
